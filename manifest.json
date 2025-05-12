@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "xchan",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Hide usernames and social metrics on x.com to prevent groupthink.",
     "permissions": [],
     "content_scripts": [
