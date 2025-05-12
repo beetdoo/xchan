@@ -3,7 +3,7 @@
     "name": "xchan",
     "version": "1.0",
     "description": "Hide usernames and social metrics on x.com to prevent groupthink.",
-    "permissions": ["scripting"],
+    "permissions": [],
     "content_scripts": [
       {
         "matches": ["*://x.com/*", "*://twitter.com/*"],
